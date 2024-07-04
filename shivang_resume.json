@@ -1,0 +1,82 @@
+{
+  "name": "SHIVANG KAINTHOLA",
+  "contact_details": {
+    "email": "shivang.kainthola64@gmail.com",
+    "phone": "+91 7820007429",
+    "locations": ["Dehradun", "NCR", "Chennai", "Bengaluru"]
+  },
+  "professional_summary": "Computer Science Engineering graduate, well versed in Python for Data Manipulation and Analysis. Worked on projects that required experience in Machine Learning, Deep Learning, LLM dev and NLP, as well as SQL/NoSQL, ETL and Cloud Technologies. Actively seeking roles in Data Science / Data analysis.",
+  "education": [
+    {
+      "institution": "George Public School, Dehradun",
+      "completion_date": "05/2018",
+      "qualification": "CLASS X",
+      "grade": "80.8%"
+    },
+    {
+      "institution": "Kendriya Vidyalaya No.1 , Dehradun",
+      "completion_date": "05/2020",
+      "qualification": "CLASS XII (PCM CS)",
+      "grade": "79%"
+    },
+    {
+      "institution": "SRM Institute of Science and Technology, Ramapuram",
+      "completion_date": "06/2024",
+      "qualification": "B.Tech (CS-IOT)",
+      "grade": "9.25 CGPA"
+    }
+  ],
+  "extracurricular": [
+    {
+      "role": "Team Lead",
+      "organization": "CHiPSET - Club of SRMIST",
+      "description": "Actively led and participated in the organization of multiple events, developed my leadership skills while working with juniors and seniors, and tackling a variety of difficult situations."
+    }
+  ],
+  "skills": [
+    "Python",
+    "MySQL",
+    "NoSQL (MongoDB)",
+    "Apache Cassandra",
+    "IBM Cloudant",
+    "Azure AI",
+    "MATLAB",
+    "Data analytics",
+    "Machine Learning",
+    "Deep Learning",
+    "LLM development"
+  ],
+  "projects": [
+    {
+      "name": "DocQueryBot",
+      "category": "AI/LLM",
+      "description": "A QnA chat bot, accepts any document format, parses to vector database. Made using Langchain framework, OpenAI API using Python, and the front-end deployed on Streamlit."
+    },
+    {
+      "name": "DDoS Attack Detection using Deep learning",
+      "category": "Deep Learning",
+      "description": "Implemented and compared performance of bidirectional LSTM in detecting DDoS attacks as compared to simple neural networks and machine learning models."
+    },
+    {
+      "name": "UFC (1993-2023) Events: Data Storytelling",
+      "category": "Data Analysis",
+      "description": "Comprehensive exploratory data analysis with an elaborate report with visualizations and imagery."
+    },
+    {
+      "name": "Cards image classification using different CNN models",
+      "category": "Deep Learning",
+      "description": "Trained neural network with EfficientNetV3 model as a base for classifying images of 50 military aircrafts."
+    }
+  ],
+  "certifications": [
+    "Advanced MySQL - Meta",
+    "Generative AI with Large Language Models - DeepLearning.AI",
+    "AI-900 - Microsoft Azure",
+    "Applied Machine Learning - UC Michigan",
+    "Deep Learning and Reinforcement Learning - IBM",
+    "Natural Language Processing using Python - Udemy",
+    "Introduction to NoSQL databases - IBM",
+    "Using MongoDB with Python - MongoDB"
+  ],
+  "languages": ["Hindi", "English", "Bengali", "Garhwali"]
+}
