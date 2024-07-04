@@ -10,8 +10,9 @@
 ### I used structured role-prompting for the task. Since GPT-4o is free for sometime everyday, I was also able to try out the file upload feature. <br><br>
 
 
-The prompt was : <br>
-<b><u>
+The prompt was : <br><br>
+
+<b><u><i>
 You're a skilled data parser with expertise in extracting information from unstructured data sources. You have worked with various data formats, including JSON, and are familiar with the nuances of resume parsing.
 
 Your task is to parse a resume and output the extracted information in JSON format. You will receive a resume as input, and your goal is to extract relevant information such as contact details, work experience, education, skills, and other relevant sections typically found in a resume.
@@ -21,7 +22,9 @@ Please note that the input resume may contain varying levels of detail and forma
 Here is the resume you will be working with: >>
 
 Please output the extracted information in JSON format, with clear and concise labels for each section.
-</b></u> <br> <br> 
+</b></u></i> <br> <br> 
+
+--
 
 ### I scrolled over an old copy of my resume, copied the text and passed it as the next prompt. 
 
@@ -36,6 +39,8 @@ Please output the extracted information in JSON format, with clear and concise l
 ![](https://github.com/HeadHunter28/resume_parse_prompt/blob/main/Prompt%205.png)
 ![](https://github.com/HeadHunter28/resume_parse_prompt/blob/main/Prompt%206.png)
 
+--
+
 ### Then I uploaded the pdf file, and the conversation was : <br>
 
 ![](https://github.com/HeadHunter28/resume_parse_prompt/blob/main/Prompt%207.png)
@@ -43,6 +48,7 @@ Please output the extracted information in JSON format, with clear and concise l
 ![](https://github.com/HeadHunter28/resume_parse_prompt/blob/main/Prompt%209.png)
 ![](https://github.com/HeadHunter28/resume_parse_prompt/blob/main/Prompt%210.png)
 
+--
 ### I saved the json format as <u> from_pdf_shivang_resume.json </u>. 
 
 -- 
